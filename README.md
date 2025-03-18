@@ -2,9 +2,9 @@
 <h1 align="center">Hi, I´m Facu <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 
 ## 👨🏻‍💻About Me
-- i´m a Software Developer with 3 years experience, both Frontend and Backend.
-- I´m 19 years old and i am from Buenos Aires, Argentina.
-- I´m currently learning Web Development and other programming languages.
+- 🚀 i´m a Software Developer with 3 years experience, both Frontend and Backend.
+- 🏡I´m 19 years old and i am from Buenos Aires, Argentina.
+- 🔭 I´m currently learning Web Development and other programming languages
 
 ## 💻Technologies
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
 </span>
 
-## ⚙️Github Stats
+## 📉Github Stats
 <p align="center">
   <a href="https://github.com/sandooo24" target="_blank">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sandooo24&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -33,7 +33,7 @@
   </a>
 </p>
 
-## 🤝🏻Contact Me
+## 🤝🏻 Contact Me
 <span>
   <a target="_blank" href="https://www.linkedin.com/in/facuSandoval"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
   <a target="_blank" href="mailto:facundosandoval376@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
