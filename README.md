@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I´m Facu <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 
 ## 👨🏻‍💻About Me
-- 🚀 i´m a Software Developer with 3 years experience, both Frontend and Backend.
+- 🚀 i´m a Web Developer with 2 years experience, both Frontend and Backend.
 - 🏡I´m 19 years old and i am from Buenos Aires, Argentina.
 - 🔭 I´m currently learning Web Development and other programming languages
 
